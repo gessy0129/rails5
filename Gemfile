@@ -1,7 +1,7 @@
 ruby '2.4.1'
 
 source 'https://rubygems.org' do
-  gem 'bundler', '1.13.6'
+  gem 'bundler', '1.15.3'
   # Compositions
   gem 'rails', '5.1'
   gem 'mysql2'
